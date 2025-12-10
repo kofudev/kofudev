@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=kofudev&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full%20Stack&descAlignY=55&descAlign=60" width="100%" alt="Bannière"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=kofudev&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Développeur%20en%20formation&descAlignY=55&descAlign=60" width="100%" alt="Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Salut+!+Moi+c'est+Kofudev;Bienvenue+sur+mon+profil+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+!;Étudiant+passionné+par+le+code;Futur+expert+Full+Stack" alt="Typing SVG" />
 
 <br>
 
@@ -12,31 +12,55 @@
 
 <br><br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=kofudev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophées" />
-</a>
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2"><h3>🎓 Mon Parcours Scolaire & Études</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="20%" align="center"><b>ACTUELLEMENT</b></td>
+      <td>
+        <b>Nom de ta Formation / École</b><br>
+        <i>Description de ce que tu apprends (ex: Développement Web, BTS SIO...)</i>
+      </td>
+    </tr>
+    <tr>
+      <td width="20%" align="center"><b>2023</b></td>
+      <td>
+        <b>Diplôme Précédent / Lycée</b><br>
+        <i>Option ou spécialité (ex: Baccalauréat, Certification...)</i>
+      </td>
+    </tr>
+    <tr>
+      <td width="20%" align="center"><b>2021</b></td>
+      <td>
+        <b>Autre étape importante</b><br>
+        <i>Description rapide</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
-<h2>💻 Mes Langages & Outils</h2>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,php&perline=9" alt="Langages 1"/>
+<h3>💻 Mes Technologies</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php&perline=10" alt="Langages"/>
 <br>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,mysql,mongodb,postgres&perline=7" alt="Langages 2"/>
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,linux,windows&perline=7" alt="Outils"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,mysql,postgres,docker,git,vscode,linux,windows&perline=10" alt="Outils"/>
 
-<br>
+<br><br>
 
-<h2>📊 Mes Statistiques</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kofudev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kofudev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+<h3>📊 Mes Statistiques</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kofudev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kofudev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" height="160"/>
+</div>
 
 <br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kofudev&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kofudev&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
 
 <br><br>
 
