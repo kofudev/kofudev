@@ -30,7 +30,7 @@
     <tr>
       <td width="25%" align="center"><b>PROJET</b></td>
       <td>
-        <b>Valcoriua Studio</b><br>
+        <b>Valcoria Studio</b><br>
         <i>Fondateur & Développeur</i>
       </td>
     </tr>
