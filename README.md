@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="mailto:txmy.rxiz063@gmail.com">
-  <img src="https://img.shields.io/badge/Email-txmy.rxiz063%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-kofu.devloppeur@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/kofudev">
   <img src="https://img.shields.io/badge/GitHub-kofudev-c71585?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -32,7 +32,6 @@
       <td>
         <b>Valcoria Studio</b><br>
         <i>Fondateur & Développeur</i>
-        <i>Oublier pas : sa marchera nikel</i>
       </td>
     </tr>
   </tbody>
