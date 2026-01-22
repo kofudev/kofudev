@@ -32,6 +32,7 @@
       <td>
         <b>Valcoria Studio</b><br>
         <i>Fondateur & Développeur</i>
+        <i>Oublier pas : sa marchera nikel</i>
       </td>
     </tr>
   </tbody>
