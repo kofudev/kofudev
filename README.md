@@ -5,7 +5,8 @@
 <a href="https://tomy.valcoria.fr" target="_blank">
   <img src="https://img.shields.io/badge/Site%201%20-%20Tomy%20Valcoria-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Portfolio Valcoria" />
 </a>
-<a href="https://tomy.valcoria.fr" target="_blank"> <img src="https://img.shields.io/badge/Site%202%20-%20Kofu%20Dev%20Portfolio-c71585?style=for-the-badge&logo=webauthn&logoColor=white" alt="Kofu Dev Portfolio" />
+<a href="https://tomy.valcoria.fr" target="_blank">
+  <img src="https://img.shields.io/badge/Site%202%20-%20Kofu%20Dev%20Portfolio-c71585?style=for-the-badge&logo=webauthn&logoColor=white" alt="Kofu Dev Portfolio" />
 </a>
 <a href="mailto:tomy.ruiz@freshperf.fr">
   <img src="https://img.shields.io/badge/Email%20Pro-tomy.ruiz%40freshperf.fr-ff1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Professionnel" />
@@ -52,10 +53,10 @@
 <table width="100%" style="border: none;">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kofudev&show_icons=true&bg_color=0d1117&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=c71585" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kofudev&show_icons=true&theme=dark&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=c71585" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kofudev&layout=compact&bg_color=0d1117&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=c71585" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercelapp/api/top-langs/?username=kofudev&layout=compact&theme=dark&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=c71585" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
