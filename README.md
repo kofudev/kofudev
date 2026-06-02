@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,c71585&height=220&section=header&text=kofudev&fontSize=80&animation=fadeIn&fontColor=ffffff&fontAlignY=35&desc=Fondateur%20Valcoria%20Studio%20%7C%20Développeur%20FreshPerf&descAlignY=55&descAlign=60" width="100%" alt="Bannière Rose"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,c71585&height=220&section=header&text=kofudev&fontSize=80&animation=fadeIn&fontColor=ffffff&fontAlignY=35&desc=Fondateur%20Valcoria%20Studio&descAlignY=55&descAlign=60" width="100%" alt="Bannière Rose"/>
 <br><br>
 
 <a href="mailto:tomy.ruiz@freshperf.fr">
@@ -17,29 +17,29 @@
 <table width="100%" style="border: none;">
   <thead>
     <tr>
-      <th colspan="2" style="color: #ff1493;"><h3>🎓 Mon Parcours & Projets</h3></th>
+      <th colspan="2" style="color: #ff1493;"><h3>Mon Parcours & Collaborations</h3></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="25%" align="center"><b>💼 PROFESSIONNEL</b></td>
-      <td>
-        <b>FreshPerf</b><br>
-        <i>Développeur pour un hébergeur web et de serveurs français.</i>
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center"><b>🚀 PROJET</b></td>
+      <td width="25%" align="center"><b>PROJET</b></td>
       <td>
         <b>Valcoria Studio</b><br>
         <i>Fondateur & Développeur (en collaboration avec <b>Senaxzz</b>).</i>
       </td>
     </tr>
     <tr>
-      <td width="25%" align="center"><b>📚 ÉTUDES</b></td>
+      <td width="25%" align="center"><b>ÉDUCATION</b></td>
       <td>
         <b>BAC PRO CIEL</b><br>
-        <i>Cybersécurité, Informatique & Réseaux, Électronique</i>
+        <i>Cybersécurité, Informatique & Réseaux, Électronique.</i>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center"><b>AUTRE</b></td>
+      <td>
+        <b>FreshPerf</b><br>
+        <i>Contributeur / Développeur occasionnel pour l'hébergeur français.</i>
       </td>
     </tr>
   </tbody>
@@ -47,7 +47,7 @@
 
 <br>
 
-<h3 style="color: #ff1493;">💻 Mes Technologies</h3>
+<h3 style="color: #ff1493;">Technologies & Outils</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,vscode,windows" alt="Langages et Outils"/>
 
 <br><br>
