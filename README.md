@@ -1,17 +1,68 @@
-# Salut, moi c’est Kofu
+<div align="center">
 
-Je développe des projets web, des outils et des bots, et j’étudie les réseaux et la cybersécurité en BAC PRO CIEL. Je suis aussi cofondateur de **Valcoria Studio**, avec Senaxzz.
+# Salut, moi c’est Kofu 👋
 
-J’aime construire des projets concrets, apprendre en les faisant et améliorer le résultat au fil du temps. Je travaille surtout avec JavaScript, TypeScript, PHP et Python.
+### Développeur web, créateur d’outils et étudiant en réseaux & cybersécurité
 
-## Quelques projets
+Je transforme des idées en projets concrets : sites web, applications, bots Discord et outils Windows.
+J’aime comprendre comment les choses fonctionnent, apprendre en construisant et peaufiner chaque projet au fil du temps.
 
-- **Valcoria Studio** — projets web et services numériques
-- **TASHKY Bot** — bot Discord et panel web
-- **PostApo** — plugin pour Nova-Life: Amboise
-- **Advanced Compressor** — outil de compression de fichiers pour Windows
-- **Orizon Esport** — site pour une équipe Rocket League et Fortnite
+[Découvrir Varelia](https://varelia.fr) · [Voir mes applications](https://app.varelia.fr) · [État des services](https://status.varelia.fr)
 
-## Technologies
+</div>
 
-HTML · CSS · JavaScript · TypeScript · PHP · Python · MySQL · PostgreSQL · Linux · Bash · Git · Docker
+---
+
+## 👨‍💻 À propos
+
+- 🎓 Étudiant en **BAC PRO CIEL**, spécialisé dans les réseaux et la cybersécurité.
+- 🛠️ Je développe des projets web, des logiciels et des bots, de l’idée jusqu’à leur mise en ligne.
+- 🌱 Cofondateur de **Valcoria Studio**, avec **Senaxzz**.
+- 🚀 Je travaille aussi chez [**Freshperf**](https://freshperf.fr/r/R-FRNADMW5), un hébergeur web, VPS et serveurs de jeux.
+- 💡 J’apprends surtout en réalisant des projets utiles et en cherchant à les améliorer.
+
+## ✨ Varelia
+
+[**Varelia**](https://varelia.fr) est mon studio de développement. J’y crée des sites, des bots Discord et des logiciels, avec une attention particulière à la fiabilité et à l’expérience utilisateur.
+
+| Projet | Description |
+| --- | --- |
+| [**Varelia Apps**](https://app.varelia.fr) | Un catalogue d’applications développées par le studio et d’autres créateurs. |
+| [**Bot Varelia**](https://bots.varelia.fr) | Un bot Discord configurable depuis un panel web. |
+| [**TRACE**](https://trace.varelia.fr) | Une application pour suivre le temps passé sur son PC, pensée pour garder les données sur l’appareil. |
+| [**État des services**](https://status.varelia.fr) | Le suivi de disponibilité des services Varelia. |
+
+## 🧩 Quelques projets
+
+- **Varelia** — studio de développement : sites web, bots Discord et logiciels.
+- **Valcoria Studio** — projets web et services numériques, cofondé avec Senaxzz.
+- **TASHKY Bot** — bot Discord accompagné de son panel web.
+- **PostApo** — plugin pour **Nova-Life: Amboise**.
+- **Advanced Compressor** — outil Windows de compression de fichiers.
+- **Orizon Esport** — site pour une équipe Rocket League et Fortnite.
+
+## 🧰 Technologies
+
+**Langages**  
+`JavaScript` · `TypeScript` · `PHP` · `Python` · `HTML` · `CSS`
+
+**Bases de données & systèmes**  
+`MySQL` · `PostgreSQL` · `Linux` · `Bash`
+
+**Outils**  
+`Git` · `Docker`
+
+## 🤝 Me retrouver
+
+- 🌐 [varelia.fr](https://varelia.fr)
+- 📦 [Varelia Apps](https://app.varelia.fr)
+- 🤖 [Bot Varelia](https://bots.varelia.fr)
+- 📈 [TRACE](https://trace.varelia.fr)
+- 🟢 [État des services Varelia](https://status.varelia.fr)
+- 🖥️ [Freshperf — découvrir l’hébergeur](https://freshperf.fr/r/R-FRNADMW5)
+
+<div align="center">
+
+*Merci d’être passé sur mon profil — n’hésite pas à explorer mes projets !*
+
+</div>
