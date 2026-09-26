@@ -44,13 +44,13 @@ J’aime comprendre comment les choses fonctionnent, apprendre en construisant e
 ## 🧰 Technologies
 
 **Langages**  
-`JavaScript` · `TypeScript` · `PHP` · `Python` · `HTML` · `CSS`
+`JavaScript` · `TypeScript` · `PHP` · `Python` · `HTML` · `CSS` ' et + '
 
 **Bases de données & systèmes**  
-`MySQL` · `PostgreSQL` · `Linux` · `Bash`
+`MySQL` · `PostgreSQL` · `~Linux` · `~Bash`
 
 **Outils**  
-`Git` · `Docker`
+`Git` · `~Docker`
 
 ## 🤝 Me retrouver
 
@@ -60,6 +60,7 @@ J’aime comprendre comment les choses fonctionnent, apprendre en construisant e
 - 📈 [TRACE](https://trace.varelia.fr)
 - 🟢 [État des services Varelia](https://status.varelia.fr)
 - 🖥️ [Freshperf — découvrir l’hébergeur](https://freshperf.fr/r/R-FRNADMW5)
+- 📊 [Valcademy -- apprend a coder ! ](valcademy.varelia.fr)
 
 <div align="center">
 
