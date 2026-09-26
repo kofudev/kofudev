@@ -60,7 +60,7 @@ J’aime comprendre comment les choses fonctionnent, apprendre en construisant e
 - 📈 [TRACE](https://trace.varelia.fr)
 - 🟢 [État des services Varelia](https://status.varelia.fr)
 - 🖥️ [Freshperf — découvrir l’hébergeur](https://freshperf.fr/r/R-FRNADMW5)
-- 📊 [Valcademy -- apprend a coder ! ](valcademy.varelia.fr)
+- 📊 [Valcademy -- apprend a coder ! ](https://valcademy.varelia.fr)
 
 <div align="center">
 
