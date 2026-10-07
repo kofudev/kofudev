@@ -32,7 +32,7 @@ J’aime comprendre comment les choses fonctionnent, apprendre en construisant e
 ## 🧩 Quelques projets
 
 - **Varelia** — studio de développement : sites web, bots Discord et logiciels.
-- **TASHKY Bot** — bot Discord accompagné de son panel web.
+- **Varelia Security ** — bot Discord accompagné de son panel web.
 - **PostApo** — plugin pour **Nova-Life: Amboise**.
 - **Advanced Compressor** — outil Windows de compression de fichiers.
 - **Orizon Esport** — site pour une équipe Rocket League et Fortnite.
