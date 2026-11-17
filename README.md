@@ -29,9 +29,9 @@ Je travaille aussi bien sur une interface et son expérience utilisateur que sur
 | [**TRACE**](https://trace.varelia.fr) | Application de suivi d'activité sur PC, pensée autour du contrôle local des données. |
 | [**Bot Varelia**](https://bots.varelia.fr) | Bot Discord personnalisable depuis un panel web. |
 | **Varelia Security** | Outils de sécurité et de modération Discord avec interface d'administration. |
-| **PostApo** | Plugin développé pour *Nova-Life: Amboise*. |
-| **Advanced Compressor** | Utilitaire de compression de fichiers sous Windows. |
-| **Orizon Esport** | Site web conçu pour une équipe Rocket League et Fortnite. |
+| **PostApo** | Plugin développé pour *Nova-Life: Amboise* qui permet la creation d'un serveur post apo. |
+| [**VareliaRP**](https://discord.gg/vareliarp) | Serveur RP sur nova life ( actuelement en V3 ) |
+
 
 ## Technologies
 
