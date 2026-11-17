@@ -1,71 +1,90 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Kofu — développeur web, logiciels, bots Discord et outils" width="100%" />
+<img src="assets/kofu-banner.png" alt="Kofu — bannière illustrée" width="100%" />
 
-<br />
+<br>
 
-**Développeur web et créateur d'outils**  
-Je conçois, développe et fais évoluer des produits utiles, du premier prototype à leur mise en ligne.
+### Salut, moi c'est Kofu.
 
-<p>
-  <a href="https://varelia.fr"><img src="./assets/link-varelia.svg" alt="Varelia — site officiel" height="42" /></a>&nbsp;
-  <a href="https://app.varelia.fr"><img src="./assets/link-apps.svg" alt="Découvrir les applications Varelia" height="42" /></a>&nbsp;
-  <a href="https://status.varelia.fr"><img src="./assets/link-status.svg" alt="Consulter l'état des services Varelia" height="42" /></a>
-</p>
+Je conçois des **applications web**, des **logiciels Windows**, des **bots Discord** et les outils qui les accompagnent.  
+J'aime transformer une idée en un projet concret, soigné et réellement utilisable.
+
+[**Varelia**](https://varelia.fr) &nbsp;·&nbsp; [**Applications**](https://app.varelia.fr) &nbsp;·&nbsp; [**État des services**](https://status.varelia.fr)
 
 </div>
 
+---
+
 ## À propos
 
-J'aime comprendre ce qui se passe sous le capot et construire des outils qui répondent à de vrais besoins. Je travaille sur des applications web, des logiciels Windows, des bots Discord et les systèmes qui les font fonctionner.
+Je suis développeur et cofondateur de **[Varelia](https://varelia.fr)**, un studio autour du développement web, des applications, de l'automatisation et de l'infrastructure.
 
-Je développe également **[Varelia](https://varelia.fr)**, un studio de développement autour duquel je rassemble mes projets, mes applications et mes services.
+Je travaille aussi bien sur une interface et son expérience utilisateur que sur une API, une base de données, un bot ou son déploiement. J'aime apprendre en construisant et faire évoluer mes projets dans la durée.
 
-## Projets sélectionnés
+## Projets
 
-| Projet | Ce que je construis |
+| Projet | Description |
 | :--- | :--- |
-| **[Varelia Apps](https://app.varelia.fr)** | Un catalogue pour découvrir des applications développées par Varelia et d'autres créateurs. |
-| **[TRACE](https://trace.varelia.fr)** | Une application Windows de suivi du temps passé sur son PC, avec une approche locale des données. |
-| **[Bot Varelia](https://bots.varelia.fr)** | Un bot Discord personnalisable depuis une interface web. |
-| **Varelia Security** | Un bot Discord de sécurité et de modération, accompagné d'un panel d'administration. |
-| **[Varelia Status](https://status.varelia.fr)** | Une page dédiée à la disponibilité et au suivi des services Varelia. |
-
-**Autres réalisations**  
-`PostApo` — plugin pour Nova-Life: Amboise · `Advanced Compressor` — utilitaire Windows de compression · `Orizon Esport` — site d'équipe esport.
+| [**Varelia Apps**](https://app.varelia.fr) | Plateforme pour découvrir des applications du studio et d'autres créateurs. |
+| [**TRACE**](https://trace.varelia.fr) | Application de suivi d'activité sur PC, pensée autour du contrôle local des données. |
+| [**Bot Varelia**](https://bots.varelia.fr) | Bot Discord personnalisable depuis un panel web. |
+| **Varelia Security** | Outils de sécurité et de modération Discord avec interface d'administration. |
+| **PostApo** | Plugin développé pour *Nova-Life: Amboise*. |
+| **Advanced Compressor** | Utilitaire de compression de fichiers sous Windows. |
+| **Orizon Esport** | Site web conçu pour une équipe Rocket League et Fortnite. |
 
 ## Technologies
 
-**Langages & web**
+Quelques-unes des technologies que j'utilise, selon les projets.
+
+**Langages**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="38" height="38" />
+  <img alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" />
+  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" />
+  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" />
+  <img alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" height="36" />
+  <img alt="Rust" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="36" height="36" />
+  <img alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" height="36" />
+  <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" />
+  <img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" />
+  <img alt="Bash" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="36" height="36" />
 </p>
 
-**Données, systèmes & outils**
+**Web, API et applications**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="38" height="38" />
+  <img alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" />
+  <img alt="Vite" title="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" />
+  <img alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" />
+  <img alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" />
+  <img alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" />
+  <img alt="Tauri" title="Tauri" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="36" height="36" />
 </p>
 
-## Écosystème Varelia
+**Bases de données, systèmes et outils**
 
-Je développe autant les interfaces que les outils et services qui les accompagnent : applications, automatisations, administration et infrastructure. Mon objectif : garder des projets **clairs à utiliser, simples à maintenir et capables d'évoluer**.
+<p>
+  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" />
+  <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" />
+  <img alt="SQLite" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" height="36" />
+  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" />
+  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" />
+  <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" />
+  <img alt="Cloudflare" title="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="36" height="36" />
+</p>
 
-**[varelia.fr](https://varelia.fr)** · **[Applications](https://app.varelia.fr)** · **[Valcademy](https://valcademy.varelia.fr)** · **[Statut des services](https://status.varelia.fr)**
+*Et bien d'autres outils et technologies en fonction des besoins.*
+
+## Me retrouver
+
+[Site Varelia](https://varelia.fr) &nbsp;·&nbsp; [Applications](https://app.varelia.fr) &nbsp;·&nbsp; [Bot Discord](https://bots.varelia.fr) &nbsp;·&nbsp; [TRACE](https://trace.varelia.fr) &nbsp;·&nbsp; [Valcademy](https://valcademy.varelia.fr) &nbsp;·&nbsp; [Statut](https://status.varelia.fr)
 
 ---
 
 <div align="center">
-  <sub>Conçu et maintenu par Kofu · <a href="https://varelia.fr">Varelia</a></sub>
+  <img src="assets/kofu-logo.svg" alt="Monogramme K de Kofu" width="55" />
+  <br>
+  <sub>Kofu · Varelia</sub>
 </div>
