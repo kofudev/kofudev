@@ -88,3 +88,4 @@ Quelques-unes des technologies que j'utilise, selon les projets.
   <br>
   <sub>Kofu · Varelia</sub>
 </div>
+Kofu
